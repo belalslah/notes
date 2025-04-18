@@ -18,7 +18,23 @@ A feature-rich Flutter application for creating, managing, and organizing notes 
 
 ## Screenshots
 
-[Screenshots would be added here]
+<h2>📸 Screenshots</h2>
+<p>
+  <img src="screenshots/image1.jpg" width="200">
+  <img src="screenshots/image2.jpg" width="200">
+  <img src="screenshots/image3.jpg" width="200">
+</p>
+<p>
+  <img src="screenshots/image4.jpg" width="200">
+  <img src="screenshots/image5.jpg" width="200">
+  <img src="screenshots/image6.jpg" width="200">
+</p>
+<p>
+  <img src="screenshots/image7.jpg" width="200">
+  <img src="screenshots/image8.jpg" width="200">
+  <img src="screenshots/image9.jpg" width="200">
+</p>
+
 
 ## Installation
 
