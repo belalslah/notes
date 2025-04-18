@@ -32,7 +32,6 @@ A feature-rich Flutter application for creating, managing, and organizing notes 
 <p>
   <img src="screenshots/image7.jpg" width="200">
   <img src="screenshots/image8.jpg" width="200">
-  <img src="screenshots/image9.jpg" width="200">
 </p>
 
 
