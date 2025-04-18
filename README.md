@@ -48,12 +48,12 @@ A feature-rich Flutter application for creating, managing, and organizing notes 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/notes_app.git
+   git clone https://github.com/yourusername/notes.git
    ```
 
 2. Navigate to the project folder:
    ```
-   cd notes_app
+   cd notes
    ```
 
 3. Get dependencies:
